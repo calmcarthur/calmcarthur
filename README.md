@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+⚡ I'm studying Systems Design Engineering at UWaterloo.
+🔭 Personal Website is in progress.....
+📫 Feel free to reach me at c3mcarth@uwaterloo.ca
 
 <!--
 **calmcarthur/calmcarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
