@@ -1,6 +1,9 @@
 ### Hello 👋
+
 ⚡ I'm studying Systems Design Engineering at UWaterloo.
+
 🔭 Personal Website is in progress.....
+
 📫 Feel free to reach me at c3mcarth@uwaterloo.ca
 
 <!--
