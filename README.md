@@ -1,4 +1,4 @@
-### Hello 👋<br/><br/>
+### Hello 👋<br/>
 ⚡ I'm studying Systems Design Engineering at UWaterloo.<br/>
 🔭 Personal Website is in progress.....<br/>
 📫 Feel free to reach me at c3mcarth@uwaterloo.ca<br/>
