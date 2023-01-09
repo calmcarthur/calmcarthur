@@ -1,6 +1,6 @@
 ### Hello 👋<br/>
 ⚡ I'm studying Systems Design Engineering at UWaterloo.<br/>
-🔭 Personal Website is in progress.....<br/>
+🔭 Personal Website is in progress...<br/>
 📫 Feel free to reach me at mcarthur.cal@gmail.com<br/>
 
 <!--
