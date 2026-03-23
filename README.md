@@ -1,7 +1,3 @@
-### Hello 👋<br/>
-⚡ I'm studying Systems Design Engineering at UWaterloo.<br/>
-🔭 Personal Website is in progress...<br/>
-📫 Feel free to reach me at mcarthur.cal@gmail.com<br/>
 
 <!--
 **calmcarthur/calmcarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
